@@ -1,0 +1,6 @@
+{
+  "name": "塑膠射出品質異常與改善管理系統",
+  "description": "塑膠射出成型拉傷與組裝異常數位化品質管理系統，涵蓋異常通報、批次追溯、限度樣品庫、檢驗管理、組裝驗證、5WHY魚骨原因分析、8D改善對策追蹤、模具成型參數及AI視覺與製程預警。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
